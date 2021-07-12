@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning JS, React, and Node to make full stack web applications.
+🌱 I’m currently learning JS, React, and Node [@ DM](https://devmountain.com/) to make full stack web applications.
 
 [play some blackjack](https://adnjoo.github.io/blackjack/blackjack-v2/)
 
