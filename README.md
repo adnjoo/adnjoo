@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JS, React to make full stack web applications.
+
 [play some blackjack](https://adnjoo.github.io/blackjack/blackjack-v2/)
 
 <!--
