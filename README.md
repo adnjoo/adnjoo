@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning JS, React, and Node [@ DM](https://devmountain.com/) to make full stack web applications.
+🌱 I’m a student developer [@ DM](https://devmountain.com/) currently learning JS, React, and Node to make full stack web applications.
 
 <!--
 **adnjoo/adnjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
