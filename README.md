@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m a student developer [@ DM](https://devmountain.com/) currently learning JS, React, and Node to make full stack web applications. I am fascinated by technology as it is always changing and evolving ☯️; tech can also have a large impact on the world, and make things easier and better for alot of people. I really like writing software when it works. When it doesn't work, it is time to re-examine the logic and re-wire all the components.
+🌱 I’m a student developer [@ DM](https://devmountain.com/) currently learning JS, React, and Node to make full stack web applications. I am fascinated by technology as it is always changing and evolving ☯️; tech can also have a large impact on the world. I really like writing software when it works. When it doesn't work, it is time to re-examine the logic and re-wire all the components.
 
 ## Technologies:
 
