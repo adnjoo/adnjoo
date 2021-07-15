@@ -2,6 +2,10 @@
 
 🌱 I’m a student developer [@ DM](https://devmountain.com/) currently learning JS, React, and Node to make full stack web applications.
 
+## Technologies:
+
+React, Postgres, Node, Angular, JS, Typescript, Node, Express, Axios, HTML, CSS, Bootstrap, Jest, Selenium, Heroku, Netlify.
+
 <!--
 **adnjoo/adnjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
