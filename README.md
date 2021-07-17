@@ -4,7 +4,7 @@
 
 ## Technologies:
 
-React, Postgres, MongoDB, Angular, Javascript, Typescript, Node, Express, Axios, HTML, CSS, Bootstrap, Git, Bash, Jest, Selenium, JAMstack, RESTful APIs, Heroku, Netlify, DigitalOcean, AWS.
+React, Postgres, MongoDB, Angular, Javascript, Typescript, Node, Express, Axios, HTML, CSS, Bootstrap, Git, Bash, Jest, Mocha, Chai, Selenium, JAMstack, RESTful APIs, Heroku, Netlify, DigitalOcean, AWS.
 
 <!--
 **adnjoo/adnjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
