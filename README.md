@@ -16,7 +16,7 @@ DevOps - Heroku, DigitalOcean, Netlify, AWS, Git, Bash
 
 Design - Figma
 
-Work-flow - Trello
+Work-flow - Trello, Google Docs, Slack, Discord
 
 Other - RESTful APIs, JAMstack
 
