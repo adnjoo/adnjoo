@@ -12,7 +12,7 @@ Back end - MongoDB, Postgres, Node, Express
 
 Testing/ QA - Jest, Selenium, Mocha, Chai
 
-DevOps - Heroku, DigitalOcean, Netlify, AWS, Git, Bash
+DevOps - Git, Bash, Heroku, DigitalOcean, Netlify, AWS
 
 Design - Figma
 
