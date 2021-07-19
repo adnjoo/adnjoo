@@ -4,7 +4,7 @@
 
 ## Technologies:
 
-Languages - Javascript, Typescript, Python
+Languages - Javascript, Typescript, Python, Ruby
 
 Front end - React, Angular, Bootstrap, Tailwind, Axios, HTML, CSS
 
