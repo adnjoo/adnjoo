@@ -18,6 +18,8 @@ Design - Figma
 
 Work-flow - Trello (kanban), Google Docs, Slack, Discord
 
+SDLC methodologies: Agile
+
 Other - RESTful APIs, JAMstack
 
 <!--
