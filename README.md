@@ -24,7 +24,7 @@ Other - RESTful APIs, JAMstack
 
 ## Open source contributions:
 
-[smartbch](https://github.com/smartbch/smartbch/pull/12)
+[smartbch](https://github.com/smartbch/smartbch/)
 
 <!--
 **adnjoo/adnjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
