@@ -40,9 +40,6 @@ Design → Figma, Illustrator
 [OSU Spring Hackathon (Mar. 2022)](https://devpost.com/software/flash-card-application)
 > Hacked in a team of 4 to create a full stack flash card application with a gamification theme
 
-[ETHSanFrancisco (Nov. 2023)](https://sf.ethglobal.com/)
-> Experimented with MATIC, truffle and remix, made a few friends, met some vendors, saw a cool video NFT exhibition, almost went to a talk
-
 ## How to reach me 📫 :
 
 [LinkedIn](https://www.linkedin.com/in/adnjoo/)
