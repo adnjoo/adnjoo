@@ -34,11 +34,14 @@ Design → Figma, Illustrator
 
 ## Hackathons:
 
-[SF Blockchain Week - DeFi Hackathon (Nov. 2019)](https://adnjoo.github.io/posts/2020/post-1-wk12-hackathon/)
+[SF Blockchain Week - DeFi Hackathon (11/2019)](https://adnjoo.github.io/posts/2020/post-1-wk12-hackathon/)
 > Created an app that controlled a LIFX lightbulb's power based on transactions at a (BCH) blockchain address
 
-[OSU Spring Hackathon (Mar. 2022)](https://devpost.com/software/flash-card-application)
+[OSU Spring Hackathon (3/2022)](https://devpost.com/software/flash-card-application)
 > Hacked in a team of 4 to create a full stack flash card application with a gamification theme
+
+[ETHSanFrancisco (11/2023)](https://sf.ethglobal.com/)
+> Exploring the future of Web3 with other attendees
 
 ## How to reach me 📫 :
 
