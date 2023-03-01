@@ -49,6 +49,6 @@ Design → Figma, Illustrator
 
 [Twitter](https://www.twitter.com/adnjoo/)
 
-[Website](https://adnjoo.xyz/)
+[Website](https://adnjoo.com/)
 
 [Wordpress Blog](https://adnjoo.wordpress.com/)
