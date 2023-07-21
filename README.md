@@ -4,7 +4,7 @@ I’m a software engineer who enjoys making web applications 🌱
 
 Languages → TypeScript, JavaScript, Python, Java
 
-Frameworks & Libraries → React, Vite, Next, Tailwind, Redux, Redux-Toolkit, Axios
+Frameworks & Libraries → React ⚛️, Vite, Next, Tailwind, Redux, Redux-Toolkit, Axios
 
 Backend → Node, Express, Django
 
@@ -12,7 +12,7 @@ Database Tools → PostgreSQL, MySQL, MongoDB, GraphQL
 
 Testing/ QA → Jest, Selenium, Mocha, Chai, Cypress
 
-DevOps → Bash, Vim, Docker, CircleCI
+DevOps → Bash, Vim, Docker 🐋, CircleCI
 
 Design → Figma
 
