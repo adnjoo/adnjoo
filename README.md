@@ -43,6 +43,11 @@ Design → Figma
 [ETHSanFrancisco (11/2022)](https://sf.ethglobal.com/)
 > Exploring the future of Web3 with other attendees
 
+## Apps
+
+[bookss](https://bookkss.com)
+> bookkss provides a platform for users to write and share book reviews; built with NextJS, NextAuth, Tailwind and Express
+
 ## How to reach me 📫 :
 
 [LinkedIn](https://www.linkedin.com/in/adnjoo/)
