@@ -45,7 +45,7 @@ Design → Figma
 
 ## Apps
 
-[bookss](https://bookkss.com)
+[bookkss](https://bookkss.com)
 > bookkss provides a platform for users to write and share book reviews; built with NextJS, NextAuth, Tailwind and Express
 
 ## How to reach me 📫 :
