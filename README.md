@@ -50,9 +50,9 @@ Design → Figma
 
 ## How to reach me 📫 :
 
-[X](https://www.x.com/in/adnjoo/)
+[LinkedIn](https://linkedin.com/in/adnjoo/)
 
-[Twitter](https://www.twitter.com/adnjoo/)
+[X](https://x.com/adnjoo/)
 
 [Website](https://adnjoo.com/)
 
