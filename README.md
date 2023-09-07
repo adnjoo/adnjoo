@@ -22,13 +22,6 @@ Design → Figma
 
 [Gatsby](https://github.com/gatsbyjs/gatsby)
 
-[SmartBCH](https://github.com/smartbch/smartbch)
-
-[HashLips](https://github.com/HashLips/generative-art-node)
-
-[Slp-Token-Icons](https://github.com/kosinusbch/slp-token-icons)
-
-
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
 > Chrome extension that helps front-end developers debug HTML/CSS pages
 
