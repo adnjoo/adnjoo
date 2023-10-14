@@ -24,10 +24,10 @@ Design → Figma
 ## Apps
 
 [bookkss](https://bookkss.com)
-> bookkss provides a platform for users to write and share book reviews; built with Vite, Tailwind, Zustand, Prisma, PostgreSQL, Supabase and Express
+> bookkss provides a platform for users to write and share book reviews.
 
 [HelloRemote](https://helloremote.dev)
-> Discover your dream remote job on helloremote.dev! built with Next 13, Prisma, Postgres, Tailwind, MUI
+> Discover your dream remote job on helloremote.dev!
 
 ## How to reach me 📫 :
 
