@@ -16,12 +16,10 @@ DevOps → Bash, Vim, Docker 🐋, CircleCI
 
 Design → Figma
 
-## OSS Contributions:
+## Apps
 
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
 > Chrome extension that helps front-end developers debug HTML/CSS pages
-
-## Apps
 
 [bookkss](https://bookkss.com)
 > bookkss provides a platform for users to write and share book reviews.
