@@ -2,9 +2,9 @@
 
 I’m a software engineer who enjoys making web applications 🌱 
 
-Languages → TypeScript, JavaScript, Python, Java
+Languages → TypeScript, JavaScript, Python, Ruby
 
-Frameworks & Libraries → React ⚛️, Vite, Next, Tailwind, Redux, Redux-Toolkit, Axios
+Frameworks & Libraries → React ⚛️, Vite, Next, Tailwind, Redux, Redux-Toolkit, Axios, Rails
 
 Backend → Node, Express, Django
 
