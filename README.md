@@ -16,6 +16,8 @@ DevOps → Bash, Vim, Docker 🐋, CircleCI
 
 Design → Figma
 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=adnjoo' />
+
 ## Apps
 
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
