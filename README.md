@@ -26,8 +26,8 @@ Design → Figma
 [bookkss](https://bookkss.com)
 > bookkss provides a platform for users to write and share book reviews.
 
-[HelloRemote](https://helloremote.dev)
-> Discover your dream remote job on helloremote.dev!
+[XpenseTrackr](https://xpensetrackr.com)
+> Track expenses for better financial well-being on XpenseTrackr.com!
 
 ## How to reach me 📫 :
 
