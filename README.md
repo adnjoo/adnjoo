@@ -26,6 +26,9 @@ Design → Figma
 [bookkss](https://bookkss.com)
 > bookkss provides a platform for users to write and share book reviews.
 
+[SubsTrackr](https://substrackr.com)
+> Optimize your financial health by effortlessly managing subscriptions with SubsTrackr.com
+
 [XpenseTrackr](https://xpensetrackr.com)
 > Track expenses for better financial well-being on XpenseTrackr.com!
 
