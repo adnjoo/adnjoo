@@ -2,7 +2,7 @@
 
 I’m a software engineer who enjoys making web applications 🌱 
 
-Languages → TypeScript, JavaScript, Python, Ruby, Go
+Languages → TypeScript, JavaScript, Python, Ruby 💎, Go
 
 Frameworks & Libraries → React ⚛️, Vite, Next, Tailwind, Redux, Redux-Toolkit, Axios, Rails
 
@@ -12,7 +12,7 @@ Database Tools → PostgreSQL, MySQL, MongoDB, GraphQL
 
 Testing/ QA → Jest, Selenium, Mocha, Chai, Cypress
 
-DevOps → Bash, Vim, Docker 🐋, CircleCI
+DevOps → Bash, Vim, Docker, CircleCI
 
 Design → Figma
 
