@@ -23,12 +23,6 @@ Design → Figma
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
 > Chrome extension that helps front-end developers debug HTML/CSS pages
 
-[bookkss](https://bookkss.com)
-> bookkss provides a platform for users to write and share book reviews.
-
-[SubsTrackr](https://substrackr.com)
-> Open source subscription tracker
-
 [XpenseTrackr](https://xpensetrackr.com)
 > Expense tracker for better financial well-being on XpenseTrackr.com
 
