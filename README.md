@@ -25,8 +25,8 @@ Design → Figma
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
 > Chrome extension that helps front-end developers debug HTML/CSS pages
 
-[XpenseTrackr](https://xpensetrackr.com)
-> Expense tracker for better financial well-being on XpenseTrackr.com
+[XTrack](https://xtrack.ing)
+> Expense tracker for better financial well-being on xtrack.ing
 
 ## How to reach me 📫 :
 
