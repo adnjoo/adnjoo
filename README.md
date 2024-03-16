@@ -36,4 +36,6 @@ Design → Figma
 
 [Wordpress Blog](https://adnjoo.wordpress.com/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnjoo)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=adnjoo)
