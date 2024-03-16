@@ -18,6 +18,8 @@ Design → Figma
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=adnjoo' />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnjoo)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Apps
 
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
@@ -35,7 +37,5 @@ Design → Figma
 [Website](https://adnjoo.com/)
 
 [Wordpress Blog](https://adnjoo.wordpress.com/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnjoo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=adnjoo)
