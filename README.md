@@ -36,6 +36,4 @@ Design → Figma
 
 [Website](https://adnjoo.com/)
 
-[Wordpress Blog](https://adnjoo.wordpress.com/)
-
 ![](https://komarev.com/ghpvc/?username=adnjoo)
