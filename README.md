@@ -26,7 +26,7 @@ Design → Figma
 > Chrome extension that helps front-end developers debug HTML/CSS pages
 
 [XTrack](https://xtrack.ing)
-> Expense tracker for better financial well-being on xtrack.ing
+> Productivity app to help you GTD faster
 
 ## How to reach me 📫 :
 
