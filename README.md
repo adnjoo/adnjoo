@@ -34,6 +34,6 @@ Design → Figma
 
 [X](https://x.com/adnjoo/)
 
-[Website](https://adnjoo.com/)
+[Website](https://andrewnjoo.com/)
 
 ![](https://komarev.com/ghpvc/?username=adnjoo)
