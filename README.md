@@ -23,7 +23,7 @@ Design → Figma
 ## Apps
 
 [RedBorderChromeExtension](https://chrome.google.com/webstore/detail/red-border-chrome-extensi/cgbdhepdbbcdfdlopicohifabajofjbg?hl=en)
-> Chrome extension that helps front-end developers debug HTML/CSS pages
+> Chrome extension that helps devs debug HTML/CSS pages
 
 [XTrack](https://xtrack.ing)
 > Productivity app to help you GTD faster
